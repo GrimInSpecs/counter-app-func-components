@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(86, 86, 145, 0.867);
+}
+h1 {
+  color: rgba(12, 7, 75, 0.867);
+  text-align: center;
+  font-family: "Courier New";
+  font-weight: bold;
+}
